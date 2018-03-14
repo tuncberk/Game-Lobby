@@ -1,0 +1,9 @@
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\bin\Debug\Kesin_Step_Server1.1.exe.config
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\bin\Debug\Kesin_Step_Server1.1.exe
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\bin\Debug\Kesin_Step_Server1.1.pdb
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\obj\Debug\Kesin_Step_Server1.1.csprojResolveAssemblyReference.cache
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\obj\Debug\Kesin_Step_Server1._1.Form1.resources
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\obj\Debug\Kesin_Step_Server1._1.Properties.Resources.resources
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\obj\Debug\Kesin_Step_Server1.1.csproj.GenerateResource.Cache
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\obj\Debug\Kesin_Step_Server1.1.exe
+C:\Users\Berk\Desktop\Berk_Tunc\projeler\C# Game Lobby Project with Sockets\Server\Kesin_Step_Server1.1\obj\Debug\Kesin_Step_Server1.1.pdb
